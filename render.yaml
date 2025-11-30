@@ -7,17 +7,17 @@ services:
     startCommand: python bot.py
     envVars:
       - key: API_ID
-        sync: true
         value: "23669137"
+        sync: true
 
       - key: API_HASH
-        sync: true
         value: "383fc7aed5eb613e791a8d792c17f22a"
+        sync: true
 
       - key: BOT_TOKEN
-        sync: true
         value: "8557732228:AAEv9cKmLFiN4UJgMr_oVFI4kHT937u26DQ"
+        sync: true
 
       - key: MONGODB_URI
-        sync: true
         value: "mongodb+srv://AhmedMidoo:AhmedMidoo@ahmedmidoo.ubr4b0r.mongodb.net/?appName=AhmedMidoo"
+        sync: true
